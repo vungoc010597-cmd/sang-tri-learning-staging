@@ -1,0 +1,6 @@
+/* Shared UI uses the existing Unit 1 color, font, radius and button classes. */
+#st-student-dialog{width:min(94vw,480px);border:1px solid #e3e8f0;border-radius:18px;padding:20px;font:inherit;color:#101828}
+#st-student-dialog::backdrop{background:#10182888}
+#st-student-dialog h2{font-size:23px;margin-top:0}
+#st-student-dialog .modebar{margin-top:18px}
+#st-student-dialog [role=alert]{color:#b42318;min-height:24px}

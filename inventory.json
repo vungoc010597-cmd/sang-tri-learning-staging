@@ -1,0 +1,710 @@
+{
+  "schema": 1,
+  "sourceSHA256": "f1afc850160b4bf6be2828ba0a3bfe1dab9c8380448595a8d1d6605c1a72a70b",
+  "counts": {
+    "gradeMenus": 9,
+    "gradesWithContent": 8,
+    "subjectCategories": 4,
+    "subjectCategoriesWithContent": 3,
+    "combinations": 36,
+    "presentCombinations": 10,
+    "missingCombinations": 26,
+    "entryModules": 31,
+    "embeddedPages": 3
+  },
+  "cells": [
+    {
+      "grade": 1,
+      "subject": "Toán",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openGrade1Number1()",
+          "title": "1 Số 1"
+        },
+        {
+          "action": "openGrade1Number2()",
+          "title": "2 Số 2"
+        },
+        {
+          "action": "openGrade1Number3()",
+          "title": "3 Số 3"
+        },
+        {
+          "action": "stOpenNumber(4)",
+          "title": "4 Số 4"
+        },
+        {
+          "action": "stOpenNumber(5)",
+          "title": "5 Số 5"
+        },
+        {
+          "action": "stOpenNumber(6)",
+          "title": "6 Số 6"
+        },
+        {
+          "action": "stOpenNumber(7)",
+          "title": "7 Số 7"
+        },
+        {
+          "action": "stOpenNumber(8)",
+          "title": "8 Số 8"
+        },
+        {
+          "action": "stOpenNumber(9)",
+          "title": "9 Số 9"
+        },
+        {
+          "action": "stOpenNumber(0)",
+          "title": "0 Số 0"
+        },
+        {
+          "action": "stOpenNumber(10)",
+          "title": "10 Số 10"
+        },
+        {
+          "action": "stCountOpen()",
+          "title": "Đếm Tập đếm"
+        },
+        {
+          "action": "stCompareOpen()",
+          "title": "⚖️ Nhiều hơn – Ít hơn – Bằng nhau Chạm hình để đếm và chọn nhóm đúng →"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 1,
+      "subject": "Tiếng Anh",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 1,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 1,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 2,
+      "subject": "Toán",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 2,
+      "subject": "Tiếng Anh",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 2,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 2,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 3,
+      "subject": "Toán",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openMidtermPage(3)",
+          "title": "📝 Ôn thi giữa học kỳ I Ôn kiến thức • Luyện tập • Nâng cao • Đề giữa kỳ I"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 3,
+      "subject": "Tiếng Anh",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 3,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 3,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 4,
+      "subject": "Toán",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openMidtermPage(4)",
+          "title": "📝 Ôn thi giữa học kỳ I Ôn kiến thức • Luyện tập • Nâng cao • Đề giữa kỳ I"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 4,
+      "subject": "Tiếng Anh",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 4,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 4,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 5,
+      "subject": "Toán",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openMidtermPage(5)",
+          "title": "📝 Ôn thi giữa học kỳ I Ôn kiến thức • Luyện tập • Nâng cao • Đề giữa kỳ I"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 5,
+      "subject": "Tiếng Anh",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 5,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 5,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 6,
+      "subject": "Toán",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 6,
+      "subject": "Tiếng Anh",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openCourse()",
+          "title": "Unit 1: My New School Từ vựng • Present Simple • Trạng từ tần suất • Đọc hiểu • Viết về trường học"
+        },
+        {
+          "action": "STMidterm.open(6)",
+          "title": "📝 Ôn tập giữa học kỳ I • Unit 1–3"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 6,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 6,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 7,
+      "subject": "Toán",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 7,
+      "subject": "Tiếng Anh",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openCourse()",
+          "title": "Unit 1: Hobbies Từ vựng • Present Simple • Đọc hiểu • Viết về sở thích • Tổng ôn"
+        },
+        {
+          "action": "STMidterm.open(7)",
+          "title": "📝 Ôn tập giữa học kỳ I • Unit 1–3"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 7,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 7,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 8,
+      "subject": "Toán",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 8,
+      "subject": "Tiếng Anh",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openCourse()",
+          "title": "Unit 1: Leisure time Từ vựng • Liking/disliking + V-ing/to V • Đọc hiểu • Viết"
+        },
+        {
+          "action": "STMidterm.open(8)",
+          "title": "📝 Ôn tập giữa học kỳ I • Unit 1–3"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 8,
+      "subject": "Ngữ văn",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 8,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    },
+    {
+      "grade": 9,
+      "subject": "Toán",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openMathCourse('b1')",
+          "title": "Bài 1: Phương trình và hệ hai phương trình bậc nhất hai ẩn Khái niệm • Kiểm tra nghiệm • Máy tính ẩn",
+          "chapter": 1
+        },
+        {
+          "action": "openMathCourse('b2')",
+          "title": "Bài 2: Giải hệ hai phương trình bậc nhất hai ẩn Phương pháp thế • Cộng đại số • Tổng hợp • Kiểm tra",
+          "chapter": 1
+        },
+        {
+          "action": "openMathCourse('b3')",
+          "title": "Bài 3: Giải bài toán bằng cách lập hệ phương trình Tìm hai số • Chuyển động • Công việc – năng suất – vòi nước",
+          "chapter": 1
+        },
+        {
+          "action": "openMathCourse('b4')",
+          "title": "Bài 4: Phương trình quy về phương trình bậc nhất một ẩn Phương trình tích • Chứa ẩn ở mẫu • Điều kiện và đối chiếu",
+          "chapter": 2
+        },
+        {
+          "action": "openMathCourse('b5')",
+          "title": "Bài 5: Bất đẳng thức và tính chất So sánh • Cộng/trừ • Nhân/chia số âm và đổi chiều",
+          "chapter": 2
+        },
+        {
+          "action": "openMathCourse('b6')",
+          "title": "Bài 6: Bất phương trình bậc nhất một ẩn Giải • Biểu diễn tập nghiệm • Bài toán thực tế",
+          "chapter": 2
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 9,
+      "subject": "Tiếng Anh",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openCourse()",
+          "title": "Unit 1: Local Community 59 từ vựng • Ngữ pháp • Viết • Đọc hiểu • Tổng ôn"
+        },
+        {
+          "action": "STMidterm.open(9)",
+          "title": "📝 Ôn tập giữa học kỳ I • Unit 1–3"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 9,
+      "subject": "Ngữ văn",
+      "hasContent": true,
+      "entries": [
+        {
+          "action": "openLitCourse()",
+          "title": "Bài 1: Thế giới kì ảo Đọc hiểu + viết liền bài • Tiếng Việt • Nghị luận • Trình bày sự việc thời sự • Tổng ôn"
+        }
+      ],
+      "status": "PRESENT_NOT_FULLY_ACCEPTED"
+    },
+    {
+      "grade": 9,
+      "subject": "KHTN",
+      "hasContent": false,
+      "entries": [],
+      "status": "MISSING"
+    }
+  ],
+  "main": {
+    "id": "main",
+    "title": "Sáng Trí Learning",
+    "bytes": 1861661,
+    "sha256": "f1afc850160b4bf6be2828ba0a3bfe1dab9c8380448595a8d1d6605c1a72a70b",
+    "sections": [
+      "home",
+      "subjectScreen",
+      "lessonScreen",
+      "grade1Number1",
+      "grade1Number2",
+      "grade1Number3",
+      "course",
+      "vocab",
+      "grammar",
+      "writing",
+      "reading",
+      "minigames",
+      "review",
+      "mathCourse",
+      "litCourse",
+      "litPractice",
+      "litModule",
+      "stCountPage",
+      "stNumberPage",
+      "stComparePage",
+      "mt-page"
+    ],
+    "headings": [
+      "Chọn lớp",
+      "Chọn môn học",
+      "Chọn bài học",
+      "Bài 1: Bé học số 1",
+      "Bài 2: Bé học số 2",
+      "Bài 3: Bé học số 3",
+      "Tiếng Anh 9 • Unit 1: Local Community",
+      "Từ vựng • Unit 1 — 59 từ",
+      "Ngữ pháp • Unit 1",
+      "Viết • Unit 1: Local Community",
+      "📖 Đọc hiểu • Unit 1: Local Community",
+      "🕹️ Luyện tương tác • Unit 1",
+      "🎯 Tổng ôn • Unit 1",
+      "Toán 9 • Kết nối tri thức",
+      "Bài 1 • Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+      "Ngữ văn 9 • Bài 1: Thế giới kì ảo",
+      "Thực hành tiếng Việt • Bài 1",
+      "",
+      "Ôn tập giữa học kỳ I • Tiếng Anh 6–9",
+      "Họ và tên học sinh",
+      "💡 Bé nhớ nhé",
+      "🧸 Một đồ vật",
+      "👀 Cô viết mẫu",
+      "✍️ Bé tô theo số 1",
+      "🖍️ Bé tự viết số 1",
+      "Con đã luyện xong số 1!",
+      "Kết quả: ${g1TestScore}/5",
+      "⭐ Kiểm tra cuối bài",
+      "💡 Bé nhớ nhé",
+      "🧸 Hai đồ vật",
+      "👀 Cô viết mẫu",
+      "✍️ Bé tô theo số 2",
+      "🖍️ Bé tự viết số 2",
+      "Con đã luyện xong số 2!",
+      "Kết quả: ${g2TestScore}/5",
+      "⭐ Kiểm tra cuối bài",
+      "👀 Cô viết mẫu số 3",
+      "Đây là số 3",
+      "🧸 Cùng đếm đến ba",
+      "✍️ Bé tô theo số 3",
+      "🖍️ Bé tự viết số 3",
+      "🏆 Bé luyện xong số 3!",
+      "Kết quả: ${g3TestScore}/5",
+      "${title}",
+      "Đây là số ${n}",
+      "🧸 Cùng đếm ${n} đồ vật",
+      "👀 Cô viết mẫu số ${n}",
+      "✍️ Bé tô theo số ${n}",
+      "🖍️ Bé tự viết số ${n}",
+      "🏆 ${test?'Kết quả: '+stScore+'/5':'Bé đã luyện xong!'}",
+      "${test?'⭐ Kiểm tra':'🎮 Luyện tập'} – ${stIndex+1}/${max}",
+      "🧮 Bài 12: Bé tập đếm từ 0 đến 10",
+      "🍎 Con hãy chọn số lượng",
+      "${stCountN===0?'Không có đồ vật nào':'Chạm vào từng hình để đếm'}",
+      "🎉 Hoàn thành!",
+      "${stCountScore}/${total} câu đúng",
+      "${stCountMode==='quiz'?'Luyện tập':'Kiểm tra'} · ${stCountQuestion+1}/${total}",
+      "⚖️ Nhiều hơn – Ít hơn – Bằng nhau",
+      "Chạm từng quả táo để đếm",
+      "🎉 Hoàn thành!",
+      "${stCmpMode==='practice'?'Luyện tập':'Kiểm tra'} · ${stCmpQ+1}/${max}",
+      "Họ và tên học sinh"
+    ],
+    "inlineScripts": 10,
+    "fetchCalls": 4
+  },
+  "embedded": [
+    {
+      "id": "math-3",
+      "title": "Sáng Trí Learning • Toán 3 • Ôn giữa HKI",
+      "bytes": 16282,
+      "sha256": "22df95ecaa74ff88febf639256432aba77784fd7fae62f7c3879e7bd0294dd06",
+      "sections": [
+        "review",
+        "practice",
+        "advanced",
+        "exam"
+      ],
+      "headings": [
+        "🧮 Toán 3 • Ôn thi giữa học kỳ I",
+        "📘 Những phần cần ôn",
+        "🎮 Luyện tập tổng hợp",
+        "🚀 Nâng cao vừa sức",
+        "📝 Đề ôn giữa học kỳ I • 10 điểm",
+        "${t.title}",
+        "Phần I • Trắc nghiệm (3 điểm)",
+        "Phần II • Tự luận (7 điểm)"
+      ],
+      "inlineScripts": 1,
+      "fetchCalls": 1,
+      "grade": 3
+    },
+    {
+      "id": "math-4",
+      "title": "Sáng Trí Learning",
+      "bytes": 503242,
+      "sha256": "702f73c78e19455f102140f7417537a07aaff9ff7bc2a648a026de8803a5ddc9",
+      "sections": [
+        "home",
+        "subjectScreen",
+        "lessonScreen",
+        "course",
+        "vocab",
+        "grammar",
+        "writing",
+        "reading",
+        "minigames",
+        "review",
+        "mathCourse",
+        "litCourse",
+        "litPractice",
+        "litModule",
+        "math4Midterm",
+        "math5Midterm"
+      ],
+      "headings": [
+        "Chọn lớp",
+        "Chọn môn học",
+        "Chọn bài học",
+        "Tiếng Anh 9 • Unit 1: Local Community",
+        "Từ vựng • Unit 1 — 59 từ",
+        "Ngữ pháp • Unit 1",
+        "Viết • Unit 1: Local Community",
+        "📖 Đọc hiểu • Unit 1: Local Community",
+        "🕹️ Luyện tương tác • Unit 1",
+        "🎯 Tổng ôn • Unit 1",
+        "Toán 9 • Kết nối tri thức",
+        "Bài 1 • Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+        "Ngữ văn 9 • Bài 1: Thế giới kì ảo",
+        "Thực hành tiếng Việt • Bài 1",
+        "",
+        "📝 Toán 4 • Ôn tập giữa học kỳ I",
+        "📝 Toán 5 • Ôn tập giữa học kỳ I",
+        "📋 Ma trận ôn giữa kỳ I",
+        "Phần I • Trắc nghiệm (3 điểm)",
+        "Phần II • Tự luận (7 điểm)",
+        "📋 Ma trận ôn giữa kỳ I",
+        "Phần I • Trắc nghiệm (3 điểm)",
+        "Phần II • Tự luận (7 điểm)"
+      ],
+      "inlineScripts": 1,
+      "fetchCalls": 19,
+      "grade": 4
+    },
+    {
+      "id": "math-5",
+      "title": "Sáng Trí Learning",
+      "bytes": 482643,
+      "sha256": "2f547003b0a07646c6516effda232a285381ea30cfddf11385f2409ce47a7943",
+      "sections": [
+        "home",
+        "subjectScreen",
+        "lessonScreen",
+        "course",
+        "vocab",
+        "grammar",
+        "writing",
+        "reading",
+        "minigames",
+        "review",
+        "mathCourse",
+        "litCourse",
+        "litPractice",
+        "litModule",
+        "math5Midterm"
+      ],
+      "headings": [
+        "Chọn lớp",
+        "Chọn môn học",
+        "Chọn bài học",
+        "Tiếng Anh 9 • Unit 1: Local Community",
+        "Từ vựng • Unit 1 — 59 từ",
+        "Ngữ pháp • Unit 1",
+        "Viết • Unit 1: Local Community",
+        "📖 Đọc hiểu • Unit 1: Local Community",
+        "🕹️ Luyện tương tác • Unit 1",
+        "🎯 Tổng ôn • Unit 1",
+        "Toán 9 • Kết nối tri thức",
+        "Bài 1 • Phương trình và hệ hai phương trình bậc nhất hai ẩn",
+        "Ngữ văn 9 • Bài 1: Thế giới kì ảo",
+        "Thực hành tiếng Việt • Bài 1",
+        "",
+        "📝 Toán 5 • Ôn tập giữa học kỳ I",
+        "📋 Ma trận ôn giữa kỳ I",
+        "Phần I • Trắc nghiệm (3 điểm)",
+        "Phần II • Tự luận (7 điểm)"
+      ],
+      "inlineScripts": 1,
+      "fetchCalls": 17,
+      "grade": 5
+    }
+  ],
+  "midtermUnits": [
+    {
+      "grade": 6,
+      "unit": 1,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PRONUNCIATION_WITHHELD"
+    },
+    {
+      "grade": 6,
+      "unit": 2,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 6,
+      "unit": 3,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 7,
+      "unit": 1,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 7,
+      "unit": 2,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 7,
+      "unit": 3,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 8,
+      "unit": 1,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 8,
+      "unit": 2,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 8,
+      "unit": 3,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 9,
+      "unit": 1,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 9,
+      "unit": 2,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    },
+    {
+      "grade": 9,
+      "unit": 3,
+      "scope": "MIDTERM_REVIEW_ONLY",
+      "status": "PARTIAL_ACCEPTANCE"
+    }
+  ],
+  "limitations": [
+    "PRESENT means an entry exists, not full textbook coverage or proven correctness.",
+    "Embedded grade 4/5 documents contain inherited site markup; all bytes are retained and require lesson-specific acceptance.",
+    "Legacy English Units 2/3 full lessons are not supplied by midterm review Units 1–3.",
+    "Speech on physical devices, handwriting and real Sheets are not verified."
+  ]
+}

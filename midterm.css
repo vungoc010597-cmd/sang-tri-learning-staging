@@ -1,0 +1,16 @@
+/* Midterm uses MASTER cards, buttons, options and footer. */
+#mt-page .panel{background:white;border:1px solid #e3e8f0;border-radius:18px;padding:20px;margin:18px 0}
+#mt-page button{font:inherit;border:0;border-radius:13px;padding:12px;min-height:44px;cursor:pointer;background:#edf1ff;color:#101828}
+#mt-page button.active,#mt-page button.primary{background:#315bff;color:white}
+#mt-page .row,#mt-page .audio-pair{display:flex;gap:8px;flex-wrap:wrap}
+#mt-page .audio-pair{display:inline-flex;vertical-align:middle}
+#mt-page .sound{font-size:14px;padding:8px}
+#mt-page .lesson{white-space:pre-line;cursor:default;background:#eef3ff}
+#mt-page .lesson-line{margin:8px 0;line-height:1.6}
+#mt-page .good{color:#087345}#mt-page .bad{color:#bd3333}
+#mt-page textarea{width:100%;min-height:150px;padding:14px;font:inherit;border:1px solid #ccd3df;border-radius:12px}
+#mt-page input[type=radio]{width:auto}
+#mt-page .opt{overflow-wrap:anywhere}#mt-page .result{font-size:18px;font-weight:400}
+#mt-nameDialog{width:min(94vw,480px);border:1px solid #e3e8f0;border-radius:18px;padding:22px}
+#mt-nameDialog::backdrop{background:#10182888}#mt-nameDialog .modebar{margin-top:18px}
+@media(max-width:700px){#mt-page .panel{padding:14px;margin:12px 10px}#mt-page h1{font-size:24px}}
